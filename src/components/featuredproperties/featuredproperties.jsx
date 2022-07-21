@@ -2,6 +2,9 @@ import React from "react";
 import "./featuredproperties.css"
 
 const featuredproperties =() =>{
+    
+
+
     return(
         <div className="fp">
            <div className="fpItem">
