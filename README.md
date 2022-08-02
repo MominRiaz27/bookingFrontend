@@ -7,7 +7,7 @@
 - Reactjs.
 
 # How to Install and Run the Project
-- git clone https://github.com/MominRiaz27/Todo-App.git
+- git clone https://github.com/MominRiaz27/bookingFrontend.git
 - npm install
 - npm start
 
