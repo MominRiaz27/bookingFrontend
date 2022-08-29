@@ -22,9 +22,6 @@
 https://user-images.githubusercontent.com/93713996/182300720-68a3dc37-4a4f-4e59-b1a3-4abc7ec83634.mp4
 
 
-## Acknowledgements
-- This project is learned from lamadev (https://www.youtube.com/c/LamaDev)
-- https://www.youtube.com/watch?v=RkWpJ4XUHuw&t=1413s
 ## Contact
 - Gmail: Momin.Riaz427@gmail.com
 
